@@ -1,0 +1,12 @@
+{
+  "jspm": {
+    "directories": {
+      "lib": ".",
+      "packages": "jspm_packages"
+    },
+    "dependencies": {
+      "axios": "npm:axios@^0.5.0",
+      "react": "npm:react@^0.12.2"
+    }
+  }
+}
